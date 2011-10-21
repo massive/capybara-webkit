@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    capybara-webkit (0.7.2.1)
+    intentmedia-capybara-webkit (0.7.2.2)
       capybara (>= 1.0.0, < 1.2)
 
 GEM
@@ -58,7 +58,7 @@ PLATFORMS
 
 DEPENDENCIES
   appraisal
-  capybara-webkit!
+  intentmedia-capybara-webkit!
   mini_magick
   rake
   rspec (~> 2.6.0)
